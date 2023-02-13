@@ -18,10 +18,18 @@
 
     git add <filename>
 
+## Снимок текущего состояния изменений
+
+Для создания снимка текущего состояния изменений, добавленных в раздел проиндексированных файлов
 
     git commit
+
+Для удобства используется с флагами a и m (a - add / m - message)
+
     git commit -a
     git commit -m "Message"
+
+
     git log
     git log --oneline
     git log --all
