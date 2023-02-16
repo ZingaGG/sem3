@@ -80,6 +80,6 @@
 
     branch1
 
-    branc2
+    branch2
 
     branch3
