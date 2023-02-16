@@ -75,3 +75,9 @@
     git merge branch_name - Merge branch branch_name with branch you are at
 
     git branch -d branch_name - Delete branch_name branch
+
+## Пытаемся создать длинную ветку
+
+    branch1
+
+    branch2
