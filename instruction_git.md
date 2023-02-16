@@ -78,12 +78,8 @@
 
 ## Пытаемся создать длинную ветку
 
-<<<<<<< HEAD
-    branch1
-=======
     branch1
 
     branch2
 
     branch3
->>>>>>> branch2
