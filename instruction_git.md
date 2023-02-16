@@ -69,3 +69,5 @@
     git checkout branch_name - move you from one branch to branch_name branch
 
 ## Слияние веток
+
+Чтобы гит видел разветвление в каждой ветке должно быть по коммиту!
