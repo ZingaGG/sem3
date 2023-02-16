@@ -69,3 +69,5 @@
     git checkout branch_name - move you from one branch to branch_name branch
 
 ## Слияние веток
+
+    git merge branch_name - Merge branch branch_name with branch you are at
