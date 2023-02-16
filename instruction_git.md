@@ -71,3 +71,7 @@
 ## Слияние веток
 
 Чтобы гит видел разветвление в каждой ветке должно быть по коммиту!
+
+    git merge branch_name - Merge branch branch_name with branch you are at
+
+    git branch -d branch_name - Delete branch_name branch
