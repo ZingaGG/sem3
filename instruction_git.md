@@ -67,3 +67,5 @@
     git branch branch_new - create branch with branch_new name
 
     git checkout branch_name - move you from one branch to branch_name branch
+
+## Слияние веток
