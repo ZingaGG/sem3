@@ -77,3 +77,9 @@
     git branch -d branch_name - Delete branch_name branch
 
 ## Пытаемся создать длинную ветку
+
+    branch1
+
+    branch2
+
+    branch3
